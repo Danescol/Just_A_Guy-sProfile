@@ -6,7 +6,7 @@ class LinkTree {
             modrinth: 'https://modrinth.com/user/Vanilama-modded',
             curseforge: 'https://www.curseforge.com/members/vanilama/projects',
             mcfiles: 'https://drive.google.com/drive/folders/1vBRGisZKlpO1clAqOW7-MXbw01vDIXXN?usp=sharing',
-            discord: 'https://linktr.ee/vanilama',
+            discord: 'https://discord.gg/aVs8k9ZSMR',
             github: 'https://linktr.ee/vanilama',
             coffee: 'https://linktr.ee/vanilama'
         };
@@ -71,9 +71,9 @@ class LinkTree {
         setTimeout(() => {
             const platform = link.querySelector('i').classList[1].split('-')[1];
             const urls = {
-                youtube: 'https://www.youtube.com/@Vanilama-modded',
-                discord: 'https://discord.gg/wz3ZvfA7kQ',
-                github: 'https://github.com/Vanilama-modded'
+                youtube: 'https://www.youtube.com/@JustAGuy-dec',
+                discord: 'https://discord.gg/aVs8k9ZSMR',
+                github: 'https://github.com/Danescol/'
             };
             
             if (urls[platform]) {
