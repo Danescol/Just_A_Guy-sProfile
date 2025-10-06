@@ -7,8 +7,8 @@ class LinkTree {
             curseforge: 'https://www.curseforge.com/members/vanilama/projects',
             mcfiles: 'https://drive.google.com/drive/u/0/folders/1M8sAlJwzuTBQVgcIlRAC-uX05ZXXAo_4',
             discord: 'https://discord.gg/aVs8k9ZSMR',
-            github: 'https://linktr.ee/vanilama',
-            coffee: 'https://linktr.ee/vanilama'
+            github: 'http://gegfaug.com/',
+            coffee: 'http://gegfaug.com/'
         };
         
         this.init();
