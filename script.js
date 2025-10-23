@@ -4,7 +4,7 @@ class LinkTree {
         this.links = {
             website: 'https://modrinth.com/user/Just_A_GuyT',
             modrinth: 'https://just-a-guy-yt.itch.io/',
-            curseforge: 'https://www.curseforge.com/members/vanilama/projects',
+            curseforge: 'https://www.curseforge.com/members/just_a_guy_yt/projects',
             mcfiles: 'https://drive.google.com/drive/u/0/folders/1M8sAlJwzuTBQVgcIlRAC-uX05ZXXAo_4',
             discord: 'https://discord.gg/aVs8k9ZSMR',
             github: 'http://gegfaug.com/',
