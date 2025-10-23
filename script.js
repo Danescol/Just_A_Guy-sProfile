@@ -2,7 +2,7 @@
 class LinkTree {
     constructor() {
         this.links = {
-            website: 'https://modrinth.com/user/Just_A_GuyT',
+            website: 'https://modrinth.com/user/Just_A_Guy',
             modrinth: 'https://just-a-guy-yt.itch.io/',
             curseforge: 'https://www.curseforge.com/members/just_a_guy_yt/projects',
             mcfiles: 'https://drive.google.com/drive/u/0/folders/1M8sAlJwzuTBQVgcIlRAC-uX05ZXXAo_4',
